@@ -18,7 +18,7 @@ Jev answered about 4x faster than Sonnet (0.7 s vs 3.1 s per email) and used les
 | Resisted prompt injection (email 4) | Yes | Yes | Tie |
 | Confidence per answer | Yes, calibrated % | No | Jev |
 
-
+> Jev was measured in TypeSafe's web playground and Sonnet through the API. Treat the speed gap as indicative until Jev is run through the API.
 
 ## The 5 test emails
 
