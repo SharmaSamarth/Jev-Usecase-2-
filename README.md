@@ -1,6 +1,6 @@
 # Jev vs Sonnet: Email Triage Comparison
 
-_As of 12 Oct 2026_
+_As of 12 Oct 2026_ , _Samarth Sharma_
 
 Jev answered about 4x faster than Sonnet (0.7 s vs 3.1 s per email) and used less than half the input tokens. It was also more accurate, with 23 of 25 answers right against Sonnet's 21. Both models classified the same 5 test emails.
 
