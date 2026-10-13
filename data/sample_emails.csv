@@ -1,0 +1,6 @@
+email_id,subject,body
+SAMPLE-001,Server room temperature alarm,"The temperature alarm in the Manchester office server room went off at 02:40 and the AC unit appears to have failed. Facilities, please send someone."
+SAMPLE-002,Question about API rate limits,What is the request-per-minute limit on the Business plan API? We're planning an integration next quarter.
+SAMPLE-003,Thanks!,"Got the replacement part today, everything works. Thanks for the quick turnaround."
+SAMPLE-004,Unrecognised admin user,Someone added a new admin user called 'support-tmp' to our workspace overnight. Nobody on our team created it. Please help.
+SAMPLE-005,Invoice 2291 overdue?,"We received a reminder that invoice 2291 is overdue, but we paid it on the 3rd. Can you check your records?"

@@ -1,0 +1,10 @@
+# Runtime
+anthropic>=1.13,<2
+pydantic>=2.7,<3
+python-dotenv>=1.0
+
+# Jev (TypeSafe AI) - install only on a machine allowed to call Jev:
+#   pip install -e ".[jev]"   (typesafe-sdk>=0.7.4,<0.8)
+
+# Development / tests
+pytest>=8
